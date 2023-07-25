@@ -1,0 +1,811 @@
+@media(max-width:1390px){
+
+    .partner .partner_group img{
+        flex: 0 0 33%;
+        width: 33%;
+    }
+
+    .banner .banner_block .banner_text {
+        width: 560px;
+    }
+
+    .projects .box .content .pr_name {
+        margin-bottom: 5px;
+    }
+    .my_rules .rules_right .item-2 {
+        padding-bottom: 85px;
+    }
+    .recomends .box .content .house_name {
+        font-size: 19px;
+    }
+
+    .recomends .box .content a img {
+        padding: 24px 20px;
+    }
+    .partner .partner_group {
+        padding: 99px 15px 99px 40px;
+    }
+
+    .navigation .nav_item .nav_link::before {
+        position: absolute;
+        right: -18px;
+        top: -5px;
+    }
+  
+    header .search_categories .search_link {
+        font-size: 16px;
+    }
+
+    header .content .phone_number a::after {
+        left: -30px;
+    }
+
+    header .content .whatsapp a::after {
+        position: absolute;
+        left: -30px;
+        content: url(../img/whatsapp-icon.svg);
+    }
+
+    header .content .time span::after {
+        position: absolute;
+        left: -30px;
+        content: url(../img/clock-icon.svg);
+    }
+
+    header .content ul li a{
+        font-size: 16px;
+    }
+    header .content ul li span{
+        font-size: 16px;
+    }
+
+    .header_menu form {
+        width: 350px;
+    }
+
+    .header_menu .menu li {
+        margin-right: 35px;
+    }
+    .header_menu .menu li a {
+        font-size: 17px;
+    }
+
+    .header_navbar .navigation .nav_link{
+        font-size: 17px;
+    }
+
+
+}
+
+@media(max-width:1024px){
+
+    /* .search_categories .link{
+        width: 150px;
+    }
+
+    header .content ul li span,header .content ul li a{
+        font-size: 14px;
+    } 
+
+    .header_menu .menu_folder {
+        flex-wrap: nowrap;
+    }
+
+    .header_menu .menu li {
+        margin-right: 20px;
+    }
+
+    .header_menu .menu li a{
+        font-size: 14px;
+    }
+    .header_menu .cart{
+        padding: 8px 27px 8px 27px;
+    }
+
+    .header_navbar .navigation .nav_link {
+        font-size: 14px;
+    }
+
+    .navigation .nav_item .nav_link::before{
+        right: -19px;
+        top: -5px;
+    } */
+
+    .header_menu form {
+        width: 300px;
+    }
+
+    .my_rules .rules_right .item-2 {
+        padding-bottom: 85px;
+    }
+
+    .projects .col-lg-4{
+        flex: 0 0 45%;
+        width: 45%;
+    }
+
+    .recomends .col-lg-3{
+        flex: 0 0 45%;
+        width: 45%;
+    }
+
+    .projects .box .content .pr_name {
+        margin-bottom: 6px;
+    }
+
+    .partner .partner_group{
+        padding: 120px 15px 120px 40px;
+    }
+    
+    .nav_group{
+        width: 360px !important;
+    }
+
+    .nav_group ul{
+        margin-right: 10px;
+    }
+
+    .nav_group ul li a{
+        font-size: 14px;
+    }
+
+    .blog .box .content .description {
+        margin-bottom: 42px;
+    }
+
+    .partner_group img{
+        flex: 0 0 33%;
+        width: 33%;
+    }
+
+    .partner .partner_group{
+        padding-left: 30px;
+    }
+
+    .partner .box {
+        padding: 30px 10px 30px 15px;
+    }
+    
+    .footer_top .col-lg-4 {
+        flex: 0 0 70%;
+        width: 70%;
+    }
+
+    .footer_top .col-lg-1 {
+        flex: 0 0 11%;
+        width: 11%;
+    }
+
+}
+
+@media(max-width:992px){
+    header .search_categories .search_link {
+        font-size: 13px;
+    }
+
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span {
+        font-size: 14px;
+    }
+
+    header .content ul .socials a{
+        margin-right: 12px;
+    }
+
+    .header_menu .menu li a {
+        font-size: 15px;
+    }
+
+    .header_menu .menu li {
+        margin-right: 18px;
+    }
+
+    .header_navbar .navigation .nav_link {
+        font-size: 14px;
+    }
+
+    .why_we{
+        padding: 40px 0;
+    }
+    .why_we h3{
+        margin-bottom: 45px;
+    }
+    .why_we .box p {
+        margin-top: 10px;
+    }
+
+    .why_we .box{
+        padding: 30px 19px;
+    }
+
+    .projects {
+        padding-bottom: 40px;
+    }
+
+    .projects .col-lg-4{
+        flex: 0 0 45%;
+        width: 45%;
+    }
+
+    .projects h3 {
+        margin-bottom: 45px;
+    }
+
+    .projects .box a{
+        padding: 22px 15px;
+    }
+
+    .projects .box .content .pr_price {
+        font-size: 14px;
+    }
+    .projects .box .content .info {
+        padding: 3px 9px;
+    }
+
+    .house_bar {
+        margin-top: 60px;
+    }
+
+    .testimonials {
+        margin-bottom: 60px;
+    }
+
+    .recomends .col-lg-3{
+        flex: 0 0 45%;
+        width: 45%;
+    }
+
+    .recomends {
+        padding-bottom: 40px;
+    }
+
+    .blog .box .content .description {
+        margin-bottom: 42px;
+    }
+
+    .blog {
+        padding-bottom: 35px;
+    }
+    .partner .title, .partner .second_title {
+        font-size: 33px;
+    }
+    .partner .partner_group {
+        padding: 93px 15px 93px 40px;
+    }
+
+    .partner {
+        padding-bottom: 60px;
+    }
+
+    .footer_top .col-lg-4{
+        flex: 0 0 50%;
+        width: 50%;
+    }
+    .footer_top .col-lg-1{
+        flex: 0 0 11%;
+        width: 11%;
+    }
+    .footer_top .phone_numbers .phone, .footer_top .phone_numbers .whatsapp {
+        margin-left: 36px;
+    }
+    .footer_navbar ul li a{
+        font-size: 12px;
+    }
+
+    .footer_navbar .nav_group li a{
+        margin: 0 7px;
+    }
+    .footer_navbar .contacts span{
+        font-size: 13px;
+    }
+
+    .search_categories ul li a{
+        font-size: 15px;
+    }
+
+    .navigation .nav_item ul li a{
+        font-size: 15px;
+    }
+}
+
+@media(max-width:768px){
+    .banner .banner_block {
+        max-width: 100%;
+    }
+
+    .my_rules .rulues_left{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .my_rules .rules_right .item{
+        border: none;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    br{
+        display: none;
+    }
+    .testimonials .testimonials_left {
+        margin-bottom: 30px;
+    }
+
+    .testimonials .testimonials_left .content {
+        padding-top: 60px;
+    }
+
+    .footer_top .col-lg-4 {
+        flex: 0 0 70%;
+        width: 70%;
+    }
+
+    .footer_top .col-lg-1 {
+        flex: 0 0 15%;
+        width: 14%;
+    }
+
+    .footer_navbar .nav_group{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer_navbar .group_title{
+        text-align: center;
+    }
+
+    .nav_group{
+        width: 100% !important;
+    }
+
+    footer .footer_bottom .copyright{
+        margin-bottom: 20px;
+    }
+
+    .my_rules .rules_right{
+        margin: 0;
+    }
+}
+
+@media(max-width:768px){
+
+    header .header_top{
+        padding: 25px 0;
+    }
+
+    header .search_categories .search_link{
+        font-size: 14px;
+    }
+
+    header .search_categories .search_link::after{
+        left: -19px;
+    }
+    header .search_categories .search_link:hover::after{
+        top: 9px;
+    }
+
+    header .content ul{
+        margin-left: 21px;
+        margin-top: 10px;
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+    header .content ul li{
+        margin-bottom: 5px;
+    }
+    header .content .phone_number a::after {
+        left: -25px;
+    }
+
+    header .content .time span::after{
+        left: -25px;
+    }
+
+    header .content .whatsapp a::after{
+        left: -25px;
+    }
+    
+    .rejim{
+        margin-left: 50px;
+    }
+
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span{
+        font-size: 18px;
+    }
+    header .content ul li span{
+        font-size: 17px;
+    }
+
+    .header_menu {
+        padding-top: 10px;
+        position: relative;
+    }
+
+    .header_menu .cart{
+        position: absolute;
+        top: 25px;
+        right: 10px;
+    }
+
+    header .header_logo{
+        margin-bottom: 10px;
+    }
+
+    .header_menu form {
+        width: 400px;
+    }
+
+    .header_menu .search{
+
+        margin: 0 auto;
+    }
+
+    header .content ul .socials {
+        position: absolute;
+        top: 173px;
+        left: 180px;
+        z-index: 1000;
+    }
+
+    header .content ul .socials span{
+        display: initial;
+        font-size: 20px;
+        color: black;
+    }
+
+    .header_menu .menu li {
+        margin-right: 15px;
+    }
+
+    .header_menu .menu {
+        margin-top: 15px;
+    }
+
+    .header_menu .menu li a{
+        font-size: 16.5px;
+    }
+
+    header .header_navbar {
+        position: relative;
+    }
+
+    .header_navbar .navigation {
+        position: absolute;
+        top:-15px;
+        right: -100%;
+        background: #fff;
+        padding: 10px;
+        flex-direction: column;
+        align-items: baseline;
+        width: 100%;
+        box-shadow: 0 4px 7px rgba(0, 0, 0, .2);
+        border-radius: 10px;
+        transition: .3s all ease;
+    }
+
+    .header_navbar .navigation.active{
+        right: -10px;
+    }
+
+    .header_navbar .navigation li{
+        margin-bottom: 10px;
+        padding: 5px;
+    }
+    .header_navbar .navigation .nav_item ul{
+        z-index: 1000;
+    }
+
+    #mobile_categories{
+        display: block;
+    }
+
+
+    .banner .banner_block {
+        padding-top: 50px;
+    }
+
+    .banner .banner_block .banner_text {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .projects .col-lg-4 {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+
+    .my_rules .rules_right{
+        margin: 0;
+    }
+    .house_bar .bar_folder .title{
+        text-align: left;
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+
+    .house_bar .bar_folder p{
+        width: 100%;
+        margin: 0 8px;
+        text-align: left;
+        margin-bottom: 15px;
+    }
+    .house_bar .bar_folder a {
+        margin: 10px;
+    }
+    
+    .consultation {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .consultation .title {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .consultation .subtitle {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+
+    .consultation form .button_group{
+        flex-wrap: wrap;
+    }
+    .consultation form textarea{
+        margin-bottom: 20px;
+    }
+
+    
+    .consultation form .button_group .main_btn{
+        width: 100%;
+        text-align: center;
+    }
+    .consultation form .button_group a{
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    .recomends .col-lg-3 {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    .partner .partner_group{
+        padding: 40px 15px;
+    }
+
+    .partner_group img{
+        flex: 0 0 100%;
+        width: 100%;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+
+    footer .phone_numbers{
+        flex-direction: column;
+    }
+
+    footer .phone_numbers .phone{
+        margin-bottom: 10px;
+    }
+
+
+    .footer_navbar{
+        text-align: center;
+    }
+
+    .footer_navbar .title{
+        margin-top: 20px;
+    }
+
+    .footer_navbar ul li a{
+        font-size: 18px;
+    }
+
+    .footer_navbar .to_top {
+        margin: 30px 0;
+    }
+
+    .footer_top .col-lg-1 {
+        flex: 0 0 33%;
+        width: 33%;
+    }
+    .footer_top .col-lg-4 {
+        flex: 0 0 67%;
+        width: 67%;
+    }
+
+    .footer_top .phone_numbers a {
+        font-size: 15px;
+    }
+
+    .footer_bottom p{
+        margin-bottom: 20px;
+    }
+
+    .house_bar .bar_folder {
+        top: -50px;
+    }
+
+    .banner .banner_block{
+        padding: 50px 10px;
+    }
+
+    .main_btn{
+        padding: 16px 93px;
+    }
+
+    header .content ul .socials{
+        top: 148px
+    }
+    header .content ul .socials a{
+        margin-right: 20px;
+    }
+    .header_menu form{
+        width: 340px;
+    }
+
+    .header_menu .cart {
+        position: absolute;
+        top: 33px;
+        right: 43px;
+    }
+    .rejim {
+        margin-left: 0;
+    }
+
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span {
+        font-size: 16px;
+    }
+
+    .header_menu .menu li {
+        margin-right: 76px;
+    }
+
+    .header_menu .menu li a {
+        font-size: 18.5px;
+    }
+
+}
+
+
+@media(max-width:425px){
+
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span {
+        font-size: 17px;
+    }
+    header .content ul .socials a{
+        margin-right: 40px;
+    }
+    .rejim{ 
+        margin-left:76px;
+    }
+
+    header .content ul .socials{
+        left: 173px;
+        top: 173px;
+    }
+
+    .header_menu .cart {
+        position: absolute;
+        top: 28px;
+        right: 15px;
+    }
+
+    .header_menu form {
+        width: 395px;
+    }
+
+    .header_menu .menu li a {
+        font-size: 16.3px;
+    }
+
+    .header_menu .menu li {
+        margin-right: 10px;
+    }
+
+    .main_btn {
+        font-size: 23px;
+    }
+
+}
+
+@media(max-width:395px){
+
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span {
+        font-size: 16px;
+    }
+    
+    .header_menu form {
+        width: 350px;
+    }
+
+    .header_menu .menu li a {
+        font-size: 14px;
+    }
+
+    header .content ul .socials a {
+        margin-right: 25px;
+    }
+
+    header .content ul .socials{
+        left: 163px;
+    }
+
+    .header_menu .menu li {
+        margin-right: 15.5px;
+    }
+
+    .rejim {
+        margin-left: 60px;
+    }
+
+}
+
+@media(max-width:320px){
+    header .content .phone_number a, header .content .whatsapp a, header .content .time span{
+        font-size: 15px;
+    }
+
+    header .content ul li span{
+        font-size: 15px;
+    }
+
+    .header_logo img{
+        width: 80%;
+    }
+
+    header .content ul .socials{
+        left: 125px;
+        top: 165px;
+    }
+
+    header .content ul .socials a{
+        margin-right: 25px;
+    }
+
+    .header_menu .cart {
+        top: 18px;
+    }
+
+    .header_menu form {
+        width: 295px;
+    }
+
+    .header_menu .menu li a{
+        font-size: 12.5px;
+    }
+
+    .header_menu .menu li{
+        margin-right: 9px;
+    }
+
+    .main_btn {
+        padding: 14px 68px;
+        font-size: 22px;
+    }
+
+    .header_navbar {
+        padding-bottom: 20px;
+    }
+
+    .rejim {
+        margin-left: 5px;
+    }
+
+    .consultation .title {
+        font-size: 25px;
+    }
+
+    .consultation .subtitle {
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+
+    .main_btn{
+        font-size:20px ;
+    }
+
+    .blog .box .content .blog_title{
+        font-size: 18px;
+    }
+}
+
